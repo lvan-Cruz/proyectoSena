@@ -40,3 +40,26 @@ Algoritmo ContarPares
     Escribir "Cantidad de números pares: ", contadorPares
 FinAlgoritmo
 
+
+Algoritmo ContarEdades
+    Definir edad, i Como Entero
+    Definir mayores, menores Como Entero
+
+    mayores <- 0
+    menores <- 0
+
+    Para i <- 1 Hasta 8 Hacer
+        Escribir "Ingrese la edad:"
+        Leer edad
+
+        Si edad >= 18 Entonces
+            mayores <- mayores + 1
+        SiNo
+            menores <- menores + 1
+        FinSi
+    FinPara
+
+    Escribir "Mayores de edad: ", mayores
+    Escribir "Menores de edad: ", menores
+FinAlgoritmo
+
