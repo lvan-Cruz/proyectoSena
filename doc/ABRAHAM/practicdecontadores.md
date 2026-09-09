@@ -22,3 +22,21 @@ Algoritmo ContarDel1Al10
 
     Escribir "Cantidad de números: ", contador
 FinAlgoritmo
+
+
+Algoritmo ContarPares
+    Definir numero, i, contadorPares Como Entero
+    contadorPares <- 0
+
+    Para i <- 1 Hasta 10 Hacer
+        Escribir "Ingrese un número:"
+        Leer numero
+
+        Si numero MOD 2 = 0 Entonces
+            contadorPares <- contadorPares + 1
+        FinSi
+    FinPara
+
+    Escribir "Cantidad de números pares: ", contadorPares
+FinAlgoritmo
+
