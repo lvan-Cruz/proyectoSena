@@ -1,0 +1,24 @@
+# **Práctica de Contadores en PSeInt**
+
+**¿Qué es un contador?**
+
+Un contador es una variable que sirve para llevar la cuenta de cuántas veces ocurre algo dentro de un algoritmo. Normalmente se inicia en `0` y aumenta de uno en uno.
+
+**Forma básica:** `contador <- 0` y después `contador <- contador + 1`.
+
+**Ejemplo 1: Contar números del 1 al 10**
+
+**Enunciado:** Mostrar los números del 1 al 10 y contar cuántos números se muestran.
+
+```pseint
+Algoritmo ContarDel1Al10
+    Definir i, contador Como Entero
+    contador <- 0
+
+    Para i <- 1 Hasta 10 Hacer
+        Escribir i
+        contador <- contador + 1
+    FinPara
+
+    Escribir "Cantidad de números: ", contador
+FinAlgoritmo
