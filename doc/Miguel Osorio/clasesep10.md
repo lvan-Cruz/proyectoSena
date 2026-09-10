@@ -67,3 +67,23 @@ Desarrollar aplicaciones del lado del servidor.
 Crear aplicaciones de escritorio y otros tipos de software mediante diferentes entornos.
 
 *Ejemplo:* cuando una página web tiene un botón que abre un menú, valida un formulario o cambia contenido sin recargar toda la página, JavaScript puede estar encargado de esa interacción.
+
+# Ejemplos
+
+### dart
+
+void main() {
+  print("Hola mundo");
+}
+
+### Visual Basic
+
+Module Program
+    Sub Main()
+        Console.WriteLine("Hola mundo")
+    End Sub
+End Module
+
+### JavaScript
+
+console.log("Hola mundo");
