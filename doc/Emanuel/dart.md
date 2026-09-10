@@ -30,5 +30,22 @@ Dart permite:
 - Realizar operaciones de forma asíncrona.
 - Crear programas estructurados y orientados a objetos.
 
+## Ventajas de Dart
+
+- Es relativamente fácil de aprender.
+- Tiene buena velocidad de ejecución.
+- Permite desarrollar para varias plataformas.
+- Se integra muy bien con Flutter.
+- Tiene herramientas que facilitan el desarrollo.
+- Permite reutilizar código en diferentes plataformas.
+
+## Desventajas de Dart
+
+- Tiene menor popularidad que lenguajes como JavaScript, Java o Python.
+- Algunas herramientas y librerías tienen menos variedad que las de otros lenguajes.
+- Para aplicaciones móviles suele utilizarse junto con Flutter.
+- Su ecosistema es más pequeño que el de lenguajes más antiguos.
+
+
 
 
