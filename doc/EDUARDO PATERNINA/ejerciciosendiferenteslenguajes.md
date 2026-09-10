@@ -33,7 +33,7 @@ public class Main {
 
 # Ejercicio en Java: Mayor o menor de edad
 
-## Código
+# Código
 
 ```text
 import java.util.Scanner;
@@ -54,7 +54,7 @@ class Main {
 }
 ```
 
-## Explicación
+# Explicación
 
 Este programa sirve para saber si una persona es mayor o menor de edad.
 
@@ -65,7 +65,7 @@ Este programa sirve para saber si una persona es mayor o menor de edad.
 - Si la edad es 18 o más, muestra "Eres mayor de edad".
 - `else` se ejecuta si la edad es menor de 18.
 
-## Ejemplo
+# Ejemplo
 
 Si el usuario escribe:
 
@@ -79,5 +79,5 @@ Si escribe:
 Eres menor de edad
 ```
 
-## Objetivo
+# Objetivo
 Aprender a utilizar variables, entrada de datos y condiciones `if` y `else` en Java.
