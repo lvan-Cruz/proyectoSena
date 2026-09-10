@@ -44,3 +44,26 @@ Interfaces gráficas mediante tecnologías como Windows Forms.
 
 Ejemplo: se puede utilizar para crear un programa de escritorio con botones, formularios, cuadros de texto y otros elementos visuales.
 
+# JavaScript
+
+JavaScript (JS) es un lenguaje de programación multiplataforma y dinámico, especialmente conocido por utilizarse para agregar interactividad a las páginas web. También puede utilizarse fuera del navegador mediante entornos como Node.js.
+
+## Características principales
+
+Es un lenguaje dinámico.
+Soporta diferentes paradigmas, como programación orientada a objetos, imperativa y funcional.
+Puede ejecutarse directamente en los navegadores.
+Permite modificar elementos de una página mediante el DOM.
+Puede utilizarse tanto en el frontend como en el backend.
+Utiliza programación asíncrona, muy importante para aplicaciones web.
+¿Para qué se utiliza?
+
+## JavaScript se utiliza para:
+
+Crear páginas web interactivas.
+Crear aplicaciones web.
+Crear animaciones y efectos.
+Desarrollar aplicaciones del lado del servidor.
+Crear aplicaciones de escritorio y otros tipos de software mediante diferentes entornos.
+
+*Ejemplo:* cuando una página web tiene un botón que abre un menú, valida un formulario o cambia contenido sin recargar toda la página, JavaScript puede estar encargado de esa interacción.
