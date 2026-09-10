@@ -1,0 +1,26 @@
+# investigacion de pseint
+# que es peint
+- PSeInt es una herramienta educativa diseñada para aprender y practicar programación de una manera sencilla. Permite escribir algoritmos utilizando pseudocódigo, es decir, instrucciones escritas de forma parecida al lenguaje humano.
+- Con PSeInt puedes aprender conceptos básicos como variables, condiciones, ciclos, funciones y operadores, sin necesidad de conocer un lenguaje de programación complicado. Además, permite ejecutar los algoritmos y detectar errores, ayudando a comprender cómo funciona un programa antes de pasar a lenguajes como Python, Java o C++.
+
+# como funciona
+- PSeInt funciona mediante pseudocódigo, que consiste en escribir instrucciones de una forma parecida al lenguaje que utilizamos normalmente. Esto permite que los estudiantes puedan aprender a crear algoritmos sin tener que conocer desde el principio un lenguaje de programación complicado.
+
+# ejemplo
+- Por ejemplo, una persona puede indicarle al programa que pida un número, lo guarde en una variable y después muestre un resultado. PSeInt interpreta esas instrucciones y permite ver cómo funciona el algoritmo paso a paso.
+
+# Ventajas
+- Es fácil de usar: está diseñado especialmente para personas que están comenzando a aprender programación.
+Ayuda a entender los algoritmos: permite aprender cómo organizar instrucciones paso a paso.
+Utiliza pseudocódigo: no es necesario conocer un lenguaje de programación complicado.
+Permite detectar errores: muestra problemas en los algoritmos para poder corregirlos.
+Es práctico: puedes ejecutar los algoritmos y comprobar si funcionan correctamente.
+Ayuda a aprender conceptos básicos: como variables, condiciones, ciclos, operadores y funciones.
+Prepara para otros lenguajes: facilita posteriormente el aprendizaje de lenguajes como Python, Java o C++.
+
+# Desventajas
+- No es un lenguaje de programación profesional: se utiliza principalmente con fines educativos.
+Tiene menos funciones: comparado con lenguajes como Python, Java o C++, sus posibilidades son más limitadas.
+No se usa normalmente para crear aplicaciones profesionales: sirve principalmente para practicar algoritmos.
+Puede crear dependencia del pseudocódigo: si solo se practica en PSeInt, puede ser necesario adaptarse después a la sintaxis de un lenguaje real.
+No permite desarrollar proyectos muy avanzados: está enfocado principalmente en aprender los fundamentos de la programación.
