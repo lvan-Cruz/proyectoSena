@@ -46,6 +46,28 @@ Dart permite:
 - Para aplicaciones móviles suele utilizarse junto con Flutter.
 - Su ecosistema es más pequeño que el de lenguajes más antiguos.
 
+## Ejemplo de Dart
+
+void main() {
+  String nombre = "David";
+  print("Hola, $nombre");
+}
+
+Este programa crea una variable llamada "nombre" y después muestra un saludo en pantalla.
+
+# Otro ejemplo:
+
+void main() {
+  int a = 10;
+  int b = 5;
+
+  int suma = a + b;
+
+  print("La suma es: $suma");
+}
+
+El programa suma dos números y muestra el resultado.
+
 
 
 
