@@ -29,3 +29,9 @@ public class Main {
     }
 }
 
+void main() { 
+  int edad = 19;
+  
+  print("hola soy abraham y tengo " + edad.toString() + " años");
+}
+
