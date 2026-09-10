@@ -66,7 +66,38 @@ void main() {
   print("La suma es: $suma");
 }
 
-El programa suma dos números y muestra el resultado.
+El programa suma dos números y muestra el resultado
+
+## Programa en Dart
+
+[10:40 p.m., 1/11/2026] Ivan: import 'dart:io';
+
+void main() {
+  print('Bienvenido al programa de saludo');
+
+  print('Por favor, escribe tu nombre:');
+  String? nombre = stdin.readLineSync();
+
+  if (nombre == null || nombre.trim().isEmpty) {
+    print('Debes ingresar un nombre para continuar.');
+  } else {
+    print('Hola, $nombre. ¡Bienvenido al aprendizaje de Dart!');
+  }
+}
+# Explicacion sobre el programa
+
+[10:40 p.m., 1/11/2026] Ivan: Bienvenido al programa de saludo
+Por favor, escribe tu nombre:
+Ivan
+Hola, Ivan, ¡Bienvenido al aprendizaje de Dart!
+[10:40 p.m., 1/11/2026] Ivan: Explicación sencilla
+import 'dart:io'; permite leer información que el usuario escribe por teclado.
+void main() es el punto donde empieza a ejecutarse el programa.
+print() muestra mensajes en la consola.
+String? nombre crea una variable para almacenar texto; el signo ? indica que inicialmente puede no tener un valor.
+stdin.readLineSync() lee lo que el usuario escribe.
+if verifica una condición; en este caso, revisa si el campo quedó vacío.
+el se ejecuta cuando el usuario sí escribió un nombre.
 
 
 
