@@ -71,3 +71,124 @@ Es el conjunto de herramientas utilizado para desarrollar programas en Java.
 Entre sus principales componentes se encuentra el compilador javac, que permite convertir el código fuente .java en bytecode.
 
 El JDK es utilizado principalmente por los desarrolladores porque permite crear, compilar, ejecutar y probar programas Java.
+
+
+
+## 7. ¿Qué es el JRE?
+
+JRE significa *Java Runtime Environment*, o Entorno de Ejecución de Java.
+
+Su función principal es proporcionar los componentes necesarios para ejecutar aplicaciones Java.
+
+De manera sencilla:
+
+- *JDK:* conjunto de herramientas para desarrollar aplicaciones Java.
+- *JRE:* entorno utilizado para ejecutar aplicaciones Java.
+- *JVM:* componente que ejecuta el bytecode de Java.
+
+## 8. Programación orientada a objetos en Java
+
+Java utiliza principalmente la programación orientada a objetos.
+
+Este paradigma permite representar elementos de un sistema mediante objetos que contienen datos y comportamientos.
+
+### 8.1 Clase
+
+Una clase es una estructura que sirve como modelo para crear objetos.
+
+Ejemplo:
+
+java
+public class Producto {
+
+    String nombre;
+    double precio;
+}
+
+
+En este ejemplo, Producto es una clase que tiene los atributos nombre y precio.
+
+### 8.2 Objeto
+
+Un objeto es una instancia de una clase.
+
+Ejemplo:
+
+java
+Producto producto1 = new Producto();
+
+
+Aquí se crea un objeto llamado producto1 perteneciente a la clase Producto.
+
+### 8.3 Atributos
+
+Los atributos representan las características o datos de un objeto.
+
+Ejemplo:
+
+java
+String nombre;
+double precio;
+
+
+En este caso, nombre y precio son atributos.
+
+### 8.4 Métodos
+
+Los métodos representan acciones o comportamientos que puede realizar un objeto.
+
+Ejemplo:
+
+java
+public void mostrarProducto() {
+    System.out.println(nombre);
+}
+
+
+El método mostrarProducto() permite mostrar el nombre del producto.
+
+## 9. Principales conceptos de la programación orientada a objetos
+
+### 9.1 Encapsulamiento
+
+El encapsulamiento consiste en proteger los datos internos de una clase y controlar la forma en que pueden ser modificados o consultados.
+
+Ejemplo:
+
+java
+public class Producto {
+
+    private String nombre;
+    private double precio;
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+}
+
+
+El uso de private evita que los atributos sean modificados directamente desde cualquier parte del programa.
+
+### 9.2 Herencia
+
+La herencia permite que una clase pueda reutilizar características y métodos de otra clase.
+
+Ejemplo:
+
+java
+public class Producto {
+
+    String nombre;
+}
+
+public class Medicamento extends Producto {
+
+    String principioActivo;
+}
+
+
+En este ejemplo, Medicamento hereda el atributo nombre de Producto.
