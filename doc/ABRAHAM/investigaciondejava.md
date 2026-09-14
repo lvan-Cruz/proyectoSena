@@ -341,3 +341,33 @@ PRODUCTOS
 - precio
 - cantidad
 - categoría
+
+
+SUCURSALES
+- id
+- nombre
+- dirección
+
+
+De esta manera, la información podría almacenarse de forma organizada y posteriormente ser consultada o modificada por el sistema.
+
+## 16. Importancia de Java para el proyecto
+
+La investigación de Java permite conocer una alternativa tecnológica que podría utilizarse para desarrollar parte del proyecto.
+
+Su orientación a objetos facilita la organización de elementos como productos, usuarios, pedidos y sucursales mediante clases y objetos.
+
+Además, su capacidad para trabajar con bases de datos permitiría desarrollar funcionalidades relacionadas con el inventario y la gestión de pedidos.
+
+Sin embargo, antes de utilizar Java definitivamente en el proyecto, el grupo deberá analizar los requisitos del sistema y determinar qué tecnologías se adaptan mejor a las necesidades de la farmacia.
+
+## 17. Conclusión
+
+Java es un lenguaje de programación orientado a objetos que puede utilizarse para desarrollar diferentes tipos de aplicaciones.
+
+Durante la investigación se identificaron sus principales características, el funcionamiento de la JVM y las diferencias entre JDK, JRE y JVM. También se estudiaron conceptos fundamentales de la programación orientada a objetos, como clases, objetos, atributos, métodos, encapsulamiento, herencia, polimorfismo y abstracción.
+
+Para el proyecto SENA de la Farmacia Puerto Millo, Java podría ser utilizado para desarrollar la lógica del sistema, gestionar información y establecer comunicación con una base de datos.
+
+Por estas características, Java representa una alternativa que el grupo puede considerar dentro de la selección de tecnologías para el desarrollo del proyecto.
+
