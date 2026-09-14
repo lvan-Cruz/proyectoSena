@@ -245,3 +245,99 @@ La clase tiene tres atributos:
 También tiene un método llamado mostrarInformacion(), que permite mostrar los datos del producto.
 
 Finalmente, dentro del método main() se crea un objeto
+
+
+
+de tipo Producto y se asignan sus valores.
+
+## 11. Ventajas de Java
+
+Java presenta diferentes ventajas:
+
+- Permite desarrollar aplicaciones de diferentes tipos.
+- Es multiplataforma mediante la JVM.
+- Utiliza programación orientada a objetos.
+- Cuenta con una gran comunidad de desarrolladores.
+- Tiene una gran cantidad de bibliotecas y herramientas.
+- Permite trabajar con bases de datos.
+- Es utilizado en diferentes entornos profesionales.
+- Cuenta con herramientas para desarrollar y probar aplicaciones.
+
+## 12. Desventajas de Java
+
+Aunque Java tiene muchas ventajas, también presenta algunas desventajas:
+
+- Su sintaxis puede resultar extensa para los principiantes.
+- Algunos programas pueden consumir más recursos que soluciones desarrolladas con lenguajes más ligeros.
+- Para comenzar a desarrollar se deben comprender varios conceptos como clases, objetos, métodos y tipos de datos.
+- Algunos proyectos pueden requerir una configuración inicial más compleja.
+
+## 13. Aplicaciones de Java
+
+Java puede utilizarse en diferentes áreas, entre ellas:
+
+- Desarrollo de aplicaciones web.
+- Desarrollo de sistemas empresariales.
+- Aplicaciones de escritorio.
+- Sistemas que trabajan con bases de datos.
+- Desarrollo de servicios y APIs.
+- Aplicaciones para diferentes dispositivos.
+- Sistemas de gestión y procesamiento de información.
+
+## 14. ¿Cómo podría utilizarse Java en nuestro proyecto SENA?
+
+Para nuestro proyecto de la *Farmacia Puerto Millo*, Java podría utilizarse como parte del desarrollo del sistema tecnológico.
+
+Una de sus posibles funciones sería encargarse de la lógica del sistema y de la comunicación con la base de datos.
+
+Por ejemplo, Java podría utilizarse para gestionar:
+
+- Productos.
+- Inventario.
+- Usuarios.
+- Pedidos.
+- Clientes.
+- Sucursales.
+- Disponibilidad de productos.
+
+El sistema podría permitir que los empleados administren los productos y que los clientes consulten productos y realicen pedidos.
+
+Una posible estructura sería:
+
+text
+                   SISTEMA FARMACIA
+                         |
+          +--------------+--------------+
+          |                             |
+      Página web                  Aplicación
+          |                             |
+          +--------------+--------------+
+                         |
+                      Backend
+                         |
+                        Java
+                         |
+                    Base de datos
+                         |
+          +--------------+--------------+
+          |                             |
+       Productos                    Pedidos
+       Inventario                    Usuarios
+       Sucursales                   Clientes
+
+
+En esta estructura, Java podría encargarse de procesar las solicitudes realizadas por la página web o la aplicación y comunicarse con la base de datos.
+
+## 15. Posible conexión con una base de datos
+
+Java permite trabajar con bases de datos mediante diferentes herramientas y tecnologías.
+
+Para el proyecto, esto podría permitir almacenar información como:
+
+text
+PRODUCTOS
+- id
+- nombre
+- precio
+- cantidad
+- categoría
