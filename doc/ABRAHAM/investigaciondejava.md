@@ -52,3 +52,22 @@ JVM
 Sistema operativo
 ```
 Gracias a este proceso, un mismo programa Java puede ejecutarse en diferentes sistemas que tengan una JVM compatible
+
+
+## 5. ¿Qué es la JVM?
+
+JVM significa *Java Virtual Machine*, o Máquina Virtual de Java.
+
+Es el componente encargado de ejecutar el bytecode generado al compilar un programa Java.
+
+La JVM funciona como una capa entre el programa y el sistema operativo. Esto permite que el programa pueda ejecutarse en diferentes plataformas sin tener que escribir nuevamente todo el código.
+
+## 6. ¿Qué es el JDK?
+
+JDK significa *Java Development Kit*, o Kit de Desarrollo de Java.
+
+Es el conjunto de herramientas utilizado para desarrollar programas en Java.
+
+Entre sus principales componentes se encuentra el compilador javac, que permite convertir el código fuente .java en bytecode.
+
+El JDK es utilizado principalmente por los desarrolladores porque permite crear, compilar, ejecutar y probar programas Java.
