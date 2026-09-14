@@ -30,3 +30,18 @@ El propietario o encargado de la droguería es Arnold de la Hoz. Se identificó 
 - Crear una base de datos tipo inventario para controlar los productos.
 - Mejorar la administración de los productos de las dos sucursales.
 - Facilitar el proceso de compra y solicitud de productos por parte de los clientes.
+
+
+## 4. Acuerdos
+
+Se acordó que el grupo desarrollará como proyecto final SENA un sistema tecnológico para la Farmacia Puerto Millo, ubicada en la Carrera 19 # 47-02, barrio Normandía, Soledad, Atlántico.
+
+El proyecto estará compuesto principalmente por:
+
+- Una página web.
+- Una aplicación para realizar pedidos.
+- Una base de datos para la gestión del inventario.
+
+## 5. Conclusión
+
+Una vez definidos el proyecto, la ubicación y las necesidades principales de la empresa, se dio por finalizada la reunión.
