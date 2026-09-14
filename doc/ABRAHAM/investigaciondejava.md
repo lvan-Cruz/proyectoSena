@@ -192,3 +192,56 @@ public class Medicamento extends Producto {
 
 
 En este ejemplo, Medicamento hereda el atributo nombre de Producto.
+
+
+### 9.3 Polimorfismo
+
+El polimorfismo permite que diferentes objetos puedan responder de diferentes formas a una misma acción o método.
+
+Esto facilita la creación de programas más flexibles y organizados.
+
+### 9.4 Abstracción
+
+La abstracción consiste en mostrar solamente las características necesarias de un objeto y ocultar detalles internos que no son importantes para su utilización.
+
+## 10. Ejemplo básico en Java
+
+El siguiente ejemplo representa un producto de una farmacia:
+
+java
+public class Producto {
+
+    String nombre;
+    double precio;
+    int cantidad;
+
+    public void mostrarInformacion() {
+        System.out.println("Producto: " + nombre);
+        System.out.println("Precio: $" + precio);
+        System.out.println("Cantidad: " + cantidad);
+    }
+
+    public static void main(String[] args) {
+
+        Producto producto = new Producto();
+
+        producto.nombre = "Acetaminofén";
+        producto.precio = 5000;
+        producto.cantidad = 20;
+
+        producto.mostrarInformacion();
+    }
+}
+
+
+En este ejemplo se crea una clase llamada Producto.
+
+La clase tiene tres atributos:
+
+- nombre
+- precio
+- cantidad
+
+También tiene un método llamado mostrarInformacion(), que permite mostrar los datos del producto.
+
+Finalmente, dentro del método main() se crea un objeto
