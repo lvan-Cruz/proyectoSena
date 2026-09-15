@@ -46,3 +46,29 @@ WHERE id = 1;
 
 
 
+## 3. Crear y relacionar tablas
+
+Las tablas permiten organizar la información de forma separada y relacionarla cuando sea necesario.
+
+Ejemplo:
+
+sql
+CREATE TABLE clientes (
+    id INT PRIMARY KEY,
+    nombre VARCHAR(100)
+);
+
+CREATE TABLE ventas (
+    id INT PRIMARY KEY,
+    cliente_id INT,
+    FOREIGN KEY (cliente_id) REFERENCES clientes(id)
+);
+
+
+En este ejemplo, cliente_id relaciona las ventas con los clientes.
+
+---
+
+## Conclusión
+
+SQL permite almacenar, consultar, modificar y organizar información de manera estructurada. Para nuestro proyecto SENA, puede ser utilizado para administrar los productos, clientes, ventas e inventario de la farmacia.
