@@ -17,3 +17,18 @@ Algunas de las principales características de C# son:
 - Permite crear aplicaciones para diferentes plataformas.
 - Se integra con la plataforma .NET.
 - Es utilizado para el desarrollo de videojuegos mediante Unity.
+
+## Sintaxis básica de C#
+
+La estructura básica de un programa en C# puede ser:
+
+```csharp
+using System;
+
+class Programa
+{
+    static void Main()
+    {
+        Console.WriteLine("Hola mundo");
+    }
+}
