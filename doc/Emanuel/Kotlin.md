@@ -24,3 +24,17 @@ Interoperable con Java: puede trabajar junto con código Java.
 Orientado a objetos: permite trabajar con clases y objetos.
 Código conciso: permite realizar tareas con menos líneas de código.
 Código abierto: puede ser utilizado y desarrollado por la comunidad.
+
+## Ventajas de Kotlin
+- Es fácil de aprender para personas que ya conocen otros lenguajes.
+- Permite escribir programas con menos código.
+- Reduce algunos errores durante la programación.
+- Es compatible con Java.
+- Es muy utilizado en el desarrollo de aplicaciones Android.
+- Permite desarrollar proyectos para diferentes plataformas.
+
+## Desventajas de Kotlin
+- Puede ser más difícil de aprender si se está comenzando desde cero.
+- Algunos proyectos pueden tener tiempos de compilación mayores.
+- Existe una gran cantidad de conceptos que pueden resultar complejos al principio.
+- En algunos casos, encontrar soluciones a problemas específicos puede ser más difícil que - en lenguajes con comunidades más grandes.
