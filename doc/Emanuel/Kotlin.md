@@ -45,3 +45,33 @@ Android: desarrollo de aplicaciones móviles.
 Backend: creación de sistemas que funcionan en servidores.
 Web: desarrollo de aplicaciones web.
 Multiplataforma: creación de aplicaciones que pueden funcionar en diferentes sistemas.
+
+Software: desarrollo de diferentes tipos de programas.
+## Ejemplos de Kotlin
+- Ejemplo 1: Hola Mundo
+fun main() {
+    println("Hola mundo")
+}
+Este programa muestra el mensaje "Hola mundo" en la pantalla.
+
+- Ejemplo 2: Variables
+fun main() {
+    val nombre = "David"
+    var edad = 18
+
+    println("Mi nombre es $nombre")
+    println("Tengo $edad años")
+}
+En este ejemplo se utilizan variables para guardar información como el nombre y la edad.
+
+- Ejemplo 3: Condicional
+fun main() {
+    val edad = 18
+
+    if (edad >= 18) {
+        println("Es mayor de edad")
+    } else {
+        println("Es menor de edad")
+    }
+}
+El programa utiliza una condición para mostrar un resultado dependiendo de la edad.
