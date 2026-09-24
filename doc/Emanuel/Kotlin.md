@@ -38,3 +38,10 @@ Código abierto: puede ser utilizado y desarrollado por la comunidad.
 - Algunos proyectos pueden tener tiempos de compilación mayores.
 - Existe una gran cantidad de conceptos que pueden resultar complejos al principio.
 - En algunos casos, encontrar soluciones a problemas específicos puede ser más difícil que - en lenguajes con comunidades más grandes.
+
+## ¿Dónde se utiliza Kotlin?
+Kotlin se utiliza principalmente en:
+Android: desarrollo de aplicaciones móviles.
+Backend: creación de sistemas que funcionan en servidores.
+Web: desarrollo de aplicaciones web.
+Multiplataforma: creación de aplicaciones que pueden funcionar en diferentes sistemas.
