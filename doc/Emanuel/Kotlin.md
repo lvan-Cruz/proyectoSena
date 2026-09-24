@@ -75,3 +75,9 @@ fun main() {
     }
 }
 El programa utiliza una condición para mostrar un resultado dependiendo de la edad.
+
+## Importancia de Kotlin
+Kotlin es importante porque permite desarrollar software de una manera moderna, sencilla y eficiente. Además, su compatibilidad con Java facilita que los programadores puedan utilizar proyectos existentes y agregar código Kotlin progresivamente.
+
+## Conclusión
+Kotlin es un lenguaje de programación moderno y versátil que puede utilizarse para desarrollar aplicaciones Android, programas, sistemas web y proyectos multiplataforma. Sus características como la seguridad, la sencillez y la capacidad de trabajar junto con Java lo convierten en una herramienta importante para el desarrollo de software.
