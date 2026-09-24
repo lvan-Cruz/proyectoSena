@@ -51,6 +51,19 @@ void main() {
 
 ``` Visual Basic
 
+Sub abraham()
+
+nota1 = Val(InputBox("por favor digita tu nota1"))
+nota2 = Val(InputBox("por favor digita tu nota2"))
+nota3 = Val(InputBox("por favor digita tu nota3"))
+nota4 = Val(InputBox("por favor digita tu nota4"))
+nota5 = Val(InputBox("por favor digita tu nota5"))
+
+prom = (nota1 + nota2 + nota3 + nota4 + nota5) / 5
+
+MsgBox (prom)
+
+End Sub
 
 
 
