@@ -47,4 +47,16 @@ void main() {
   print("El promedio del aprendiz es: $promedio");
 }
 
+# Programa para calcular el promedio de 5 notas en visual basic
 
+Sub promedio()
+  nota1 = Val(InputBox("Digite la nota 1"))
+  nota2 = Val(InputBox("Digite la nota 2"))
+  nota3 = Val(InputBox("Digite la nota 3"))
+  nota4 = Val(InputBox("Digite la nota 4"))
+  nota5 = Val(InputBox("Digite la nota 5"))
+
+  resultado = (nota1 + nota2 + nota3 + nota4 + nota5) / 5
+
+  MsgBox ("El promedio es: " & resultado)
+End Sub
