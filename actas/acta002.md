@@ -57,3 +57,9 @@ Una vez definidos el proyecto, la ubicación y las necesidades principales de la
 - Emanuel Pérez
 - Miguel Osorio
 - Abraham Quiroz
+
+
+
+
+
+![alt text](<WhatsApp Image 2026-10-02 at 7.30.47 PM.jpeg>)
