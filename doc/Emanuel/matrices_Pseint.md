@@ -12,3 +12,15 @@ Cada elemento tiene una posición.
 Utilizan índices para acceder a los datos.
 Se pueden recorrer utilizando ciclos como Para.
 Permiten realizar operaciones con los datos almacenados.
+
+## Ventajas
+- Permiten organizar grandes cantidades de información.
+- Facilitan el manejo de datos relacionados.
+- Permiten realizar operaciones de forma ordenada.
+- Se pueden recorrer fácilmente mediante ciclos.
+- Son útiles para representar tablas y estructuras de datos.
+## Desventajas
+- Pueden ser difíciles de entender al principio.
+- Se debe controlar correctamente la posición de cada elemento.
+- Una matriz tiene un tamaño definido.
+- Un error en los índices puede provocar resultados incorrectos.
