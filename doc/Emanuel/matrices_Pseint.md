@@ -75,3 +75,8 @@ Dimension matriz[3,3]
 
 En este caso se está creando una matriz de 3 filas y 3 columnas.
 También se pueden utilizar otros tipos de datos, dependiendo de la información que se quiera almacenar.
+
+## Conclusión
+Las matrices en PSeInt son estructuras que permiten almacenar y organizar diferentes datos utilizando filas y columnas. Son especialmente útiles cuando se necesita trabajar con información que tiene una estructura determinada.
+Aunque al principio puede resultar un poco complicado trabajar con índices y dos dimensiones, su utilización se vuelve más sencilla con la práctica y con el uso de ciclos.
+En conclusión, aprender a utilizar matrices permite mejorar la lógica de programación y facilita la creación de algoritmos capaces de manejar grandes cantidades de información de una manera organizada y eficiente.
