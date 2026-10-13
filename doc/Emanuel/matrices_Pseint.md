@@ -66,3 +66,12 @@ Algoritmo LlenarMatriz
         FinPara
     FinPara
 FinAlgoritmo
+
+## ¿Cómo se declara una matriz en PSeInt?
+Para utilizar una matriz en PSeInt primero se debe declarar la variable y después indicar sus dimensiones utilizando Dimension.
+## Por ejemplo:
+Definir matriz Como Entero
+Dimension matriz[3,3]
+
+En este caso se está creando una matriz de 3 filas y 3 columnas.
+También se pueden utilizar otros tipos de datos, dependiendo de la información que se quiera almacenar.
