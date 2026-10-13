@@ -24,3 +24,45 @@ Permiten realizar operaciones con los datos almacenados.
 - Se debe controlar correctamente la posición de cada elemento.
 - Una matriz tiene un tamaño definido.
 - Un error en los índices puede provocar resultados incorrectos.
+
+## Por ejemplo
+ una matriz de 3 × 3 tiene:
+3 filas.
+3 columnas.
+9 posiciones en total.
+Se puede representar de la siguiente manera:
+	Columna 1	Columna 2	Columna 3
+Fila 1	10	20	30
+Fila 2	40	50	60
+Fila 3	70	80	90
+Para acceder al número 50, se utilizaría la posición correspondiente a la fila 2 y la columna 2:
+matriz[2,2]
+
+## Ejemplos
+- Ejemplo 1: Crear una matriz
+Algoritmo MatrizEjemplo
+    Definir matriz Como Entero
+    Dimension matriz[2,3]
+
+    matriz[1,1] <- 10
+    matriz[1,2] <- 20
+    matriz[1,3] <- 30
+    matriz[2,1] <- 40
+    matriz[2,2] <- 50
+    matriz[2,3] <- 60
+
+    Escribir matriz[1,1]
+FinAlgoritmo
+
+- Ejemplo 2: Llenar una matriz
+Algoritmo LlenarMatriz
+    Definir matriz, i, j Como Entero
+    Dimension matriz[3,3]
+
+    Para i <- 1 Hasta 3 Hacer
+        Para j <- 1 Hasta 3 Hacer
+            Escribir "Ingrese un número:"
+            Leer matriz[i,j]
+        FinPara
+    FinPara
+FinAlgoritmo
