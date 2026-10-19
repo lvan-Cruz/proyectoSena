@@ -1,4 +1,4 @@
-### algoritmo
+### ejemplos de algoritmos
 ¿realizar un algoritmo para encontrar el precio más caro entre varios artículos.?
 
 Algoritmo ejercicio
