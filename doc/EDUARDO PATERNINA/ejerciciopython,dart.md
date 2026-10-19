@@ -1,5 +1,5 @@
 python
-#ejercicio1
+# ejercicio1
 class Person ():
     pass
 
@@ -7,3 +7,5 @@ class Person ():
 for e in range(1,1501,1):
     print(Person, e)
 
+dart
+# ejercicios2
