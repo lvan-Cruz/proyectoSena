@@ -4,7 +4,7 @@ void main(){
   car.modelo = 3214
   car.auto = true
   print("placa: ${car.placa} modelo: ${car.modelo} auto: $ {car.auto}" )
-  car.placa = "ABC123"
+  car.placa = "BCA213"
   car.modelo = 1234
   car.auto = false
   print("placa: ${car.placa} modelo: ${car.modelo} auto: $ {car.auto}" )
