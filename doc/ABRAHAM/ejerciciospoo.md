@@ -1,4 +1,4 @@
-## ejercicios phyton recorriendo isntancia
+## ejercicio phyton recorriendo isntancia
 
 ```python
 cont = 0
@@ -15,6 +15,7 @@ for i in range(1, 1501, 1):
 
 
 ```
+##ejercicio dart
 ```dart
 
     class Persona {}
