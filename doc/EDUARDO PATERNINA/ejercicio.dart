@@ -8,15 +8,15 @@ void main(){
   car.modelo = 1234
   car.auto = false
   print("placa: ${car.placa} modelo: ${car.modelo} auto: $ {car.auto}" )
-  car.placa = "ABC123"
+  car.placa = "FWE103"
   car.modelo = 2548
   car.auto = false
   print("placa: ${car.placa} modelo: ${car.modelo} auto: $ {car.auto}" )
-  car.placa = "ABC123"
+  car.placa = "AVV911"
   car.modelo = 6957
   car.auto = true
   print("placa: ${car.placa} modelo: ${car.modelo} auto: $ {car.auto}" )
-  car.placa = "ABC123"
+  car.placa = "GTR001"
   car.modelo = 4517
   car.auto = false
   print("placa: ${car.placa} modelo: ${car.modelo} auto: $ {car.auto}" )
