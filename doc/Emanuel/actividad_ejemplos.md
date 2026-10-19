@@ -17,4 +17,22 @@ void main() {
   }
 
   print("Total de personas creadas: ${personas.length}");
-}
+}.
+
+# Python
+- ¿Cómo crear una lista de objetos de la clase Persona en Python, utilizando un ciclo for para crear y almacenar 1500 objetos, recorrer la lista para mostrar cada persona y finalmente imprimir el total de personas creadas?
+Ej: class Persona:
+    def __init__(self):
+        pass
+
+personas = []
+
+for i in range(1500):
+    persona = Persona()
+    personas.append(persona)
+
+for i, persona in enumerate(personas, start=1):
+    print("Persona", i, ":", persona)
+
+print("Total de personas creadas:", len(personas)).
+
