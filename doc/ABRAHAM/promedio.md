@@ -20,7 +20,7 @@ print(f"El promedio de las notas es: {promedio}")
 
 ## **Ejemplo de ejecución**
 
-'''text
+'''
 Ingresa una nota: 4.0
 Ingresa una nota: 3.5
 Ingresa una nota: 4.5
