@@ -31,3 +31,6 @@ La *ciberseguridad* es el conjunto de prácticas y herramientas que protegen los
 
 ##  Mini reto
 Revisa tus cuentas principales (correo, redes sociales) y activa la verificación en dos pasos en al menos dos de ellas.
+
+##  Conclusión
+La ciberseguridad protege lo más valioso en el mundo digital: la información. Con hábitos simples como contraseñas seguras, actualizaciones y desconfiar de mensajes sospechosos, se reduce mucho el riesgo de un ataque.
