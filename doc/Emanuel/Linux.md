@@ -38,3 +38,18 @@ mkdir proyectos
 cd proyectos
 touch notas.txt
 ls
+
+## Instalar un programa (Ubuntu/Debian)
+bash
+sudo apt update
+sudo apt install git
+
+
+##  Errores comunes
+- Usar rm sin revisar qué se va a borrar (no hay papelera en la terminal)
+- Abusar de sudo sin saber qué hace el comando
+- Confundir mayúsculas y minúsculas (Linux sí las distingue)
+- Escribir mal la ruta de una carpeta o archivo
+
+##  Mini reto
+Crea una carpeta llamada practica, entra en ella, crea tres archivos de texto y luego lístalos con ls.
