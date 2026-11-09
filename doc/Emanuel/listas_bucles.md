@@ -43,3 +43,20 @@ contador = 0
 while contador < 3:
     print(contador)
     contador += 1
+
+## Listas + bucles juntos
+python
+notas = [7, 9, 6, 10]
+total = 0
+for nota in notas:
+    total += nota
+print("Promedio:", total / len(notas))
+
+
+##  Errores comunes
+- Bucle infinito: olvidar actualizar la condición del while
+- IndexError: pedir un índice que no existe
+- Modificar una lista mientras se recorre
+
+##  Mini reto
+Crea una lista con 5 números y usa un bucle para mostrar solo los pares.
