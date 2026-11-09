@@ -60,3 +60,6 @@ print("Promedio:", total / len(notas))
 
 ##  Mini reto
 Crea una lista con 5 números y usa un bucle para mostrar solo los pares.
+
+##  Conclusión
+Las listas organizan los datos y los bucles los procesan. Dominar ambos es la base para resolver casi cualquier problema de programación.
