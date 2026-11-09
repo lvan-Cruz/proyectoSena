@@ -53,3 +53,6 @@ sudo apt install git
 
 ##  Mini reto
 Crea una carpeta llamada practica, entra en ella, crea tres archivos de texto y luego lístalos con ls.
+
+##  Conclusión
+Linux es un sistema potente, seguro y flexible que todo aprendiz de programación debería conocer. Dominar la terminal y los comandos básicos abre la puerta a trabajar con servidores, desarrollo de software y ciberseguridad.
